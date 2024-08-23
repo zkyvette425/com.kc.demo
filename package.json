@@ -6,5 +6,9 @@
     "author": {
       "name": "KunZhou",
       "email": "450228418@qq.com"
+    },
+    "dependencies": {
+      "com.kc.core": "0.0.1",
+      "com.kc.yooasset": "0.0.1"
     }
   }
