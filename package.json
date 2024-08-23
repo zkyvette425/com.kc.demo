@@ -1,0 +1,10 @@
+{
+    "name": "com.kc.demo",
+    "version": "0.0.1",
+    "displayName": "KC.Demo",
+
+    "author": {
+      "name": "KunZhou",
+      "email": "450228418@qq.com"
+    }
+  }
