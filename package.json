@@ -1,12 +1,14 @@
 {
-	"name": "com.kc.demo",
-	"displayName":"KC.Demo",
-	"version": "0.1.0",
-	"unity": "2022.3",
-    "author": {
-      "name": "KunZhou",
-      "email": "450228418@qq.com"
-    },
-	"dependencies": {
-	}
+  "name": "com.kc.demo",
+  "displayName": "KC.Demo",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "author": {
+    "name": "KunZhou",
+    "email": "450228418@qq.com"
+  },
+  "dependencies": {
+    "com.kc.core": "0.1.0",
+    "com.kc.yooasset": "0.1.0"
+  }
 }
