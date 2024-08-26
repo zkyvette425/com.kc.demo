@@ -1,14 +1,12 @@
 {
-    "name": "com.kc.demo",
-    "version": "0.0.1",
-    "displayName": "KC.Demo",
-
+	"name": "com.kc.demo",
+	"displayName":"KC.Demo",
+	"version": "0.1.0",
+	"unity": "2022.3",
     "author": {
       "name": "KunZhou",
       "email": "450228418@qq.com"
     },
-    "dependencies": {
-      "com.kc.core": "git@github.com:zkyvette425/com.kc.core.git",
-      "com.kc.yooasset": "git@github.com:zkyvette425/com.kc.yooasset.git"
-    }
-  }
+	"dependencies": {
+	}
+}
