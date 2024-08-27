@@ -8,7 +8,7 @@
     "email": "450228418@qq.com"
   },
   "dependencies": {
-    "com.kc.core": "https://github.com/zkyvette425/com.kc.core.git",
-    "com.kc.yooasset": "https://github.com/zkyvette425/com.kc.yooasset.git"
+    "com.kc.core": "0.1.0",
+    "com.kc.yooasset": "0.1.0"
   }
 }
