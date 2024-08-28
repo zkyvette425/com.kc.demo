@@ -15,10 +15,10 @@ jobs:
 
     steps:
     - name: Run a one-line script
-      run: hello,world
+      run: echo hello,world
 
     - name: Run a mul-line script
       run: |
-           this is a,
-           this is b.
+           echo this is a,
+           echo this is b.
            date
