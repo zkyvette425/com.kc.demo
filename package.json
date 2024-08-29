@@ -1,16 +1,14 @@
 {
   "name": "com.kc.demo",
   "displayName": "KC.Demo",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "unity": "2022.3",
   "author": "KunZhou <450228418@qq.com>",
   "dependencies": {
-    "com.kc.core": "0.1.1",
-    "com.kc.yooasset": "0.1.1",
-    "com.cysharp.unitask": "2.5.5"
+    "com.kc.core": "<1.0.0",
+    "com.kc.yooasset": "<1.0.0"
   },
-  "description": "The purpose of this starter kit is to provide the data structure and development guidelines for new packages meant for the **Unity Package Manager (UPM)**.",
-  "main": "index.js",
+  "description": "\u7528\u4e8e\u5c55\u793aKC\u7684demo",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,7 +19,7 @@
   "keywords": [
     "kc"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zkyvette425/com.kc.demo/issues"
   },
