@@ -1,9 +1,16 @@
 {
   "name": "com.kc.demo",
   "displayName": "KC.Demo",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "unity": "2022.3",
   "author": "KunZhou <450228418@qq.com>",
+  "samples": [
+    {
+      "displayName": "demo1",
+      "description": "Demo1",
+      "path": "Samples~/Demo1"
+    }
+  ],
   "dependencies": {
     "com.kc.core": "0.1.6",
     "com.kc.yooasset": "0.1.4"
