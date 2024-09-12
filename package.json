@@ -1,12 +1,12 @@
 {
   "name": "com.kc.demo",
   "displayName": "KC.Demo",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "unity": "2022.3",
   "author": "KunZhou <450228418@qq.com>",
   "dependencies": {
-    "com.kc.core": "<1.0.0",
-    "com.kc.yooasset": "<1.0.0"
+    "com.kc.core": "0.1.6",
+    "com.kc.yooasset": "0.1.4"
   },
   "description": "\u7528\u4e8e\u5c55\u793aKC\u7684demo",
   "scripts": {

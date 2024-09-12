@@ -2,9 +2,9 @@
     "name": "KC.Demo",
     "rootNamespace": "KC",
     "references": [
-        "GUID:f51ebe6a0ceec4240a699833d6309b23",
-        "GUID:e34a5702dd353724aa315fb8011f08c3",
-        "GUID:f467974bbe0f2804f8d3b92221ce2511"
+        "UniTask",
+        "YooAsset",
+        "KC.Core"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

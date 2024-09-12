@@ -34,7 +34,7 @@ namespace KC
         
         private static async UniTask Demo(Root root)
         {
-            await YooAssets.LoadSceneAsync("Assets/com.kc.demo/Bundles/Scene/Demo").ToUniTask(); 
+            await YooAssets.LoadSceneAsync("Assets/Samples/KC.Demo/0.1.5/demo1/Bundles/Scene/Demo").ToUniTask(); 
             root.AddComponent<DemoComponent>();
         }
     }

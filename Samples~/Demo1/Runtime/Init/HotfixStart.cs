@@ -16,7 +16,7 @@ namespace KC
 
         private static async UniTaskVoid Init()
         {
-            await YooAssets.LoadSceneAsync("Assets/com.kc.demo/Bundles/Scene/Entry").ToUniTask();
+            await YooAssets.LoadSceneAsync("Assets/Samples/KC.Demo/0.1.5/demo1/Bundles/Scene/Entry").ToUniTask();
             await RootHelper.Create(RootType.Init);
         }
     }
